@@ -1,0 +1,8 @@
+[package]
+name = "cargo-seed"
+description = "Cargo subcommand for seeding data to databases"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
