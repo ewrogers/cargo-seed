@@ -1,8 +1,11 @@
 [package]
 name = "cargo-seed"
-description = "Cargo subcommand for seeding data to databases"
 version = "0.0.1"
-edition = "2021"
+description = "Cargo subcommand for seeding data to databases"
+repository = "https://github.com/ewrogers/cargo-seed"
+readme = "README.md"
 license = "MIT"
+edition = "2021"
+categories = ["development-tools"]
 
 [dependencies]
